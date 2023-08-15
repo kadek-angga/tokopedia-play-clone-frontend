@@ -6,7 +6,7 @@ This project employs the React.js library, a technology used to develop an engag
 
 - Front End: This frontend application deployed using Vercel. You can access it on https://tokopedia-play-copy-frontend-p3b8pg8bj-madeanggadarma.vercel.app/
 
-- Back End: The backend application is deployed on Railway. The backend repository can be found at https://tokopedia-play-clone-backend-production-2948.up.railway.app/ 
+- Back End: The backend application is deployed on Railway. The backend repository can be found at https://tokopedia-play-clone-backend-production-2948.up.railway.app/videos 
 
 ## Dependencies
 This project uses the following dependencies:
