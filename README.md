@@ -16,6 +16,8 @@ This project uses the following dependencies:
 - react-dom: ^18.2.0
 - react-player: ^2.12.0
 - react-router-dom: ^6.15.0
+- tailwindcss@3.3.3
+- vite@4.4.9
 
 ## Features
 
